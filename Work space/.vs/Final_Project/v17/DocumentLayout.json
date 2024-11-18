@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Test\\Tests.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:Test\\Tests.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_Manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:DB\\DB_Manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:DB\\DB_Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_info.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:DB\\DB_info.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\BackEnd\\BackEnd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:BackEnd\\BackEnd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Generic\\Data_Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:Generic\\Data_Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Test\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:Test\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Login\\Login.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:Login\\Login.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Courses_Registeration\\course_reg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:Courses_Registeration\\course_reg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.c",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Login\\Login.c",
+              "RelativeDocumentMoniker": "Login\\Login.c",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Login\\Login.c",
+              "RelativeToolTip": "Login\\Login.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-22T14:24:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DB_Manager.c",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_Manager.c",
+              "RelativeDocumentMoniker": "DB\\DB_Manager.c",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_Manager.c",
+              "RelativeToolTip": "DB\\DB_Manager.c",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T11:28:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data_Types.h",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Generic\\Data_Types.h",
+              "RelativeDocumentMoniker": "Generic\\Data_Types.h",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Generic\\Data_Types.h",
+              "RelativeToolTip": "Generic\\Data_Types.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-21T11:29:50.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "course_reg.c",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Courses_Registeration\\course_reg.c",
+              "RelativeDocumentMoniker": "Courses_Registeration\\course_reg.c",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Courses_Registeration\\course_reg.c",
+              "RelativeToolTip": "Courses_Registeration\\course_reg.c",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAMwCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T11:22:18.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tests.h",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Test\\Tests.h",
+              "RelativeDocumentMoniker": "Test\\Tests.h",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Test\\Tests.h",
+              "RelativeToolTip": "Test\\Tests.h",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-18T12:33:38.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.c",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Test\\Tests.c",
+              "RelativeDocumentMoniker": "Test\\Tests.c",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\Test\\Tests.c",
+              "RelativeToolTip": "Test\\Tests.c",
+              "ViewState": "AQIAAAgGAAAAAAAAAAAcwAwGAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-16T11:15:43.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB_Manager.h",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_Manager.h",
+              "RelativeDocumentMoniker": "DB\\DB_Manager.h",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_Manager.h",
+              "RelativeToolTip": "DB\\DB_Manager.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-18T12:18:06.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackEnd.c",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\BackEnd\\BackEnd.c",
+              "RelativeDocumentMoniker": "BackEnd\\BackEnd.c",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\BackEnd\\BackEnd.c",
+              "RelativeToolTip": "BackEnd\\BackEnd.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T14:39:32.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T19:22:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB_info.h",
+              "DocumentMoniker": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_info.h",
+              "RelativeDocumentMoniker": "DB\\DB_info.h",
+              "ToolTip": "C:\\Users\\Esraa Ali\\Desktop\\Testing\\Final_Project\\DB\\DB_info.h",
+              "RelativeToolTip": "DB\\DB_info.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T20:36:21.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
